@@ -1,6 +1,7 @@
 Hi I am George Njogu 
- I’m interested in software development and in creation of systems that are necessities in our day to day lives
- I’m currently learning MIT in emobilis Institute located in Westlands,Nairobi
+ I’m interested in software development and in creation of systems that are necessities in our day to day lives.
+ I did my Full Stack MIT course at Emobilis Institute located in Westlands,Nairobi.
+ I’m currently a student in Strathmore University doing BBIT as a career course.
  How to reach me:
                  Mobile number; +254 706229839
                  Email;wanjikugeorge87@gmail.com

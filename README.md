@@ -1,8 +1,8 @@
 Hi I am George Njogu 
  I’m interested in software development and in creation of systems that are necessities in our day to day lives.
- I am full stack MIT graduate from eMoblis and currently a first year BBIT student at Strathmore University.
+ I am full stack MIT graduate from eMoblis and currently a BBIT student at Strathmore University.
 How to reach me:
-                 Mobile number; +254 706229839
+                 Mobile number; +254 793027864
                  Email;wanjikugeorge87@gmail.com
 
 

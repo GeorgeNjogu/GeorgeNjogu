@@ -1,5 +1,5 @@
 Hello I am George Njogu, 
- I’m interested in software development and in creation of modern systems that are necessities in our daily lives.
+ I’m interested in software development and in creation of modern systems that are necessities in today's world.
  I am full stack MIT graduate from eMoblis and currently a BBIT student at Strathmore University.
 How to reach me:
                  Mobile number; +254 793027864
